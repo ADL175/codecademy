@@ -1,5 +1,5 @@
 from random import randint
-
+<!-- - -->
 board = []
 
 for x in range(5):
